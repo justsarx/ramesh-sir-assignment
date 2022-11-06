@@ -3,7 +3,7 @@
 int main() 
 { 
   
-    char days[7][10] = {"Sunday", "Monday",  
+    char days[7][10]= {"Sunday", "Monday",  
                     "Tuesday", "Wednesday",  
                     "Thursday", "Friday", "Saturday"}; 
   
